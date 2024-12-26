@@ -9,7 +9,7 @@ Sample HPC logs related to this study has been released [here](https://doi.org/1
 
 # Citation
 
-The following citation can be used if found relevant:
+The following citation can be used, if found relevant:
 
 ```
 @inproceedings{DBLP:conf/ipps/Das0R21,
